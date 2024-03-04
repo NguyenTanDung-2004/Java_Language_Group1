@@ -3,7 +3,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
-public class JavaBai5 {
+public class Bai5 {
 
 	public static void main(String[] args) {
 		List<Integer> list = getInputList();
